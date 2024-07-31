@@ -1,0 +1,19 @@
+.boxContainer{
+    background-color: #f9f9f9;
+    margin-left: 17%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.large-container{
+    padding: 0px 10px;
+    margin: 0;
+}
+
+/* media queries */
+@media (max-width:900px){
+    .boxContainer{
+        margin: 0;
+        padding: 0px 5px;
+    }
+}
